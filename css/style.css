@@ -100,7 +100,7 @@ img {
 }
 
 #home {
-    background-image: url(../images/Cafe.png);
+    background-image: url(../images/cafe.png);
     min-height: 100vh;
 }
 
@@ -111,7 +111,7 @@ img {
 /* NEWS 
 ----------------------------------- */
 #news {
-    background-image:  url(../images/News.png);
+    background-image:  url(../images/news.png);
     height: 270px;
     margin-bottom: 40px;
 }
